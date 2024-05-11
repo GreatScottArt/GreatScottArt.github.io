@@ -19,10 +19,10 @@
     transform: translate(-50%, 50%);
 }
 
-.question {
+.thebiz {
     margin: 5;
     padding: 20px;
-    background-color: black;
+    background-color: rgb(31, 32, 13);
     color: aliceblue;
 
 }
@@ -33,4 +33,10 @@
     background-color: rgba(16, 116, 57, 0.74);
     color: aliceblue;
     text-align: left;
+}
+
+.topban {
+    opacity: 50%;
+    width: 100%;
+    height: auto;
 }
