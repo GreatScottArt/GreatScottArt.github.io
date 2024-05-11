@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.banner {
+    position: relative;
+    background-color: darkslateblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+}
+
+.insp {
+    font-size: 35px;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.question {
+    margin: 5;
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.choice {
+    margin: 5;
+    padding: 20px;
+    background-color: rgba(16, 116, 57, 0.74);
+    color: aliceblue;
+    text-align: left;
+}
